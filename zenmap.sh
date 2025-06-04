@@ -171,7 +171,7 @@ echo " Done "
 
 echo " Attempting Convert rpm to deb"
 
-sudo alien zenmap-7.94-1.noarch.rpm
+sudo alien zenmap-7.97-1.noarch.rpm
 
 echo "Done"
 
