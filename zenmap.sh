@@ -127,7 +127,7 @@ sleep 2
 
 echo "Downloading Zenmap"
 
-wget https://nmap.org/dist/zenmap-7.94-1.noarch.rpm
+wget https://nmap.org/dist/zenmap-7.97-1.noarch.rpm
 
 echo "Done"
 
